@@ -1,3 +1,27 @@
+## Preferences.sublime-settings
+```
+{
+	"Seti_no_bar_undertabs": false,
+	"Seti_rainbow": true,
+	"Seti_sb_small_padding": true,
+	"Seti_tabs_small": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
+```
+
 ## Used Packages
 ### Package Control.sublime-settings
 ```
