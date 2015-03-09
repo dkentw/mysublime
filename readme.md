@@ -24,7 +24,7 @@
 }
 ```
 
-## Windows
+## In Windows
 
 
 ### Seti.sublime-theme
